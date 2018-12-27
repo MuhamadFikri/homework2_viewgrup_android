@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework_2</string>
+    <string name="J_login">Welcome Online Study Group Educa62</string>
+    <string name="log">Login</string>
+    <string name="T_user">Username</string>
+    <string name="T_pass">Password</string>
+    <string name="B_login">Login</string>
+    <string name="B_daftar">Daftar</string>
+
+    <string name="J_daftar">Form Pendaftaran Peserta</string>
+    <string name="T_name">Nama Lengkap</string>
+    <string name="T_alamat">Alamat</string>
+    <string name="T_tlp">No Telp</string>
+    <string name="T_mail">Email</string>
+    <string name="T_jenis">Jenis Kelamin</string>
+    <string name="R_l">Laki-laki</string>
+    <string name="R_p">Perempuan</string>
+    <string name="Daftar">Daftar Akun?</string>
+
+</resources>
